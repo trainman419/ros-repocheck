@@ -1,0 +1,7 @@
+Codename: oneiric
+Suite: oneiric
+Architectures: amd64 i386 source
+Description: Oneiric
+Components: main multiverse restricted universe partner
+UDebComponents: main
+Update: oneiric oneiric-ros

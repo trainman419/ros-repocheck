@@ -1,0 +1,14 @@
+Name: oneiric
+Suite: oneiric
+Method: http://aptproxy.willowgarage.com/archive.ubuntu.com/ubuntu
+Components: main multiverse restricted universe
+Architectures: amd64
+DownloadListsAs: .gz
+
+Name: oneiric-ros
+Method: http://packages.ros.org/ros/ubuntu
+Suite: oneiric
+Components: main
+UDebComponents:
+Architectures: amd64
+DownloadListsAs: .gz

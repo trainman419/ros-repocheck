@@ -1,0 +1,7 @@
+Codename: precise
+Suite: precise
+Architectures: amd64 i386 source
+Description: Precise
+Components: main multiverse restricted universe partner
+UDebComponents: main
+Update: precise precise-ros

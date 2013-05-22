@@ -1,0 +1,14 @@
+Name: precise
+Suite: precise
+Method: http://aptproxy.willowgarage.com/archive.ubuntu.com/ubuntu
+Components: main multiverse restricted universe
+Architectures: amd64
+DownloadListsAs: .gz
+
+Name: precise-ros
+Method: http://packages.ros.org/ros/ubuntu
+Suite: precise
+Components: main
+UDebComponents:
+Architectures: amd64
+DownloadListsAs: .gz
